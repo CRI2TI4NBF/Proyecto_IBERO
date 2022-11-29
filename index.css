@@ -1,0 +1,104 @@
+.imagen1 {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 80px;
+    top: 60px;
+}
+
+.imagen2 {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    right: 60px;
+    top: 60px;
+}
+
+img.rounded.float-right {
+    width: 200px;
+    height: 200px;
+}
+
+img.rounded.float-left {
+    width: 200px;
+    height: 200px;
+}
+
+
+
+div#contenido {
+    width: 100%;
+    border: solid;
+    
+
+    top: 323px;
+    left: 0px;
+    height: 800px;
+}
+
+
+footer{
+    BACKGROUND: #8bc34a;
+    BORDER: solid;
+    position: absolute;
+bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100px;
+}
+
+.imagen {
+    width: 150px;
+    height: 188px;
+    float: left;
+    margin-left: 50px;
+   
+    border-radius: 50px;
+}
+
+.imagen img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+h5 {
+    text-align: center;
+    color: black;
+    padding-top: 15px;
+    text-decoration: underline;
+}
+p {
+    text-align: center;
+    color: black;
+}
+
+div#imagen_movimiento {
+    background:#23482b;
+    width: 100%;
+    height: 100%;
+    
+    top: 1178px;
+    border: solid 1px black;
+}
+
+div#carouselExampleIndicators {
+    top: 125px;
+}
+
+
+
+.itemf {
+    width: 100%;
+    height: 170%;
+    background: #212529;
+    color: white;
+}
+
+.itemtx {
+    float: left;
+    padding-top: 37px;
+    padding-left: 58px;
+    margin-left: 76px;
+}
